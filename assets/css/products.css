@@ -1,0 +1,252 @@
+/* Start Iconbox Area
+==================================================*/
+.icon-box-img-11 {background-image: url(../img/);}
+.icon-box-img-12 {background-image: url(../img/);}
+.icon-box-img-13 {background-image: url(../img/);}
+.icon-box-img-14 {background-image: url(../img/);}
+.icon-box-img-15 {background-image: url(../img/);}
+.icon-box-img-16 {background-image: url(../img/);}
+.icon-box-img-17 {background-image: url(../img/);}
+.icon-box-img-18 {background-image: url(../img/);}
+.icon-box-img-19 {background-image: url(../img/);}
+.icon-box-img-20 {background-image: url(../img/);}
+.icon-box-img-21 {background-image: url(../img/);}
+.icon-box-img-22 {background-image: url(../img/);}
+.icon-box-img-23 {background-image: url(../img/);}
+.icon-box-img-24 {background-image: url(../img/);}
+.icon-box-img-25 {background-image: url(../img/);}
+.icon-box-img-26 {background-image: url(../img/);}
+.icon-box-img-27 {background-image: url(../img/);}
+.icon-box-img-28 {background-image: url(../img/);}
+.icon-box-img-29 {background-image: url(../img/);}
+.icon-box-img-30 {background-image: url(../img/);}
+.icon-box-img-31 {background-image: url(../img/);}
+.icon-box-img-32 {background-image: url(../img/);}
+.icon-box-img-33 {background-image: url(../img/);}
+.icon-box-img-34 {background-image: url(../img/);}
+.icon-box-img-35 {background-image: url(../img/);}
+.icon-box-img-36 {background-image: url(../img/);}
+.icon-box-img-37 {background-image: url(../img/);}
+.icon-box-img-38 {background-image: url(../img/);}
+.icon-box-img-39 {background-image: url(../img/);}
+.icon-box-img-40 {background-image: url(../img/);}
+.icon-box-img-41 {background-image: url(../img/);}
+.icon-box-img-42 {background-image: url(../img/);}
+.icon-box-img-43 {background-image: url(../img/);}
+.icon-box-img-44 {background-image: url(../img/);}
+.icon-box-img-45 {background-image: url(../img/);}
+.icon-box-img-46 {background-image: url(../img/);}
+.icon-box-img-47 {background-image: url(../img/);}
+.icon-box-img-48 {background-image: url(../img/);}
+.icon-box-img-49 {background-image: url(../img/);}
+.icon-box-img-50 {background-image: url(../img/);}
+.icon-box-img-51 {background-image: url(../img/);}
+.icon-box-img-52 {background-image: url(../img/);}
+.icon-box-img-53 {background-image: url(../img/);}
+.icon-box-img-54 {background-image: url(../img/);}
+.icon-box-img-55 {background-image: url(../img/);}
+
+
+body {
+  background-color: rgb(211, 211, 211);
+}
+.single-icon-box1 {
+    height: 280px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.icon-box-content11 {
+    position: absolute;
+    left: 0;
+    top: 210px;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #321575 0%, #FF057C 100%);
+
+    opacity: .9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    color: #fff;
+    z-index: -1;
+    padding: 20px 30px 30px 30px;
+    -webkit-transition: .6s;
+    transition: .6s;
+    
+}
+.icon-box-content1 {
+    left: 0;
+    top: 210px;
+    width: 100%;
+    position: absolute;
+    height: 25%;
+    background-color: transparent;
+background-image: linear-gradient(90deg, #321575 0%, #FF057C 100%);
+
+    opacity: .9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    color: #fff;
+    z-index: -1;
+    padding: 20px 30px 30px 30px;
+    -webkit-transition: .6s;
+    transition: .6s;
+    
+}
+.feature-heading {
+    margin-top: 40px;
+font-size: 26px;
+color: #4272d7;;
+ }
+ .icon-box-area{
+  width: 100%;
+  padding: 25px;
+ }
+
+.iconbox-content-heading1 {
+    font-size: 16px;
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.iconbox-content-heading1 i {
+    font-size: 30px;
+    margin-right: 15px;
+}
+
+.iconbox-content-body1   p {
+    color: #e5e5e5;
+    font-size: 14px;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+.read-more-btn {
+    text-transform: capitalize;
+    font-weight: 600;
+}
+
+.read-more-btn i {
+    margin-right: 5px;
+}
+/* End Iconbox Area */
+
+/* Tablet desktop :768px. */
+@media only screen and (max-width: 991px) {
+    .single-slider {
+        height: 500px;
+    }
+    .single-icon-box {
+        width: 50%;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .icon-box-area {
+        padding-bottom: 40px;
+    }
+    .video-img-thumbnail {
+        height: 300px;
+        margin-bottom: 30px;
+    }
+    .section-title {
+        margin-bottom: -40px;
+    }
+    .single-choose-item {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .single-choose-item h6 {
+        margin-bottom: 10px;
+    }
+    .hire-us-img img {
+        width: 100%;
+    }
+    .hire-us-content .section-title {
+        margin-bottom: inherit;
+    }
+    .carousel-area .section-title {
+        margin-bottom: inherit;
+    }
+    .blog-carousel {
+        margin-bottom: 30px;
+    }
+    .brand-area {
+        padding: 50px 0;
+    }
+    .widget-title {
+        margin-bottom: 25px;
+    }
+    .footer-widget {
+        margin-bottom: 40px;
+    }
+    .footer-area {
+        padding-bottom: 20px;
+    }
+    
+
+}
+
+ 
+/* small mobile :320px. */
+@media only screen and (max-width: 767px) {
+.single-slider {
+    height: 200px;
+}
+.slider-inner h3 {
+    font-size: 25px;
+    line-height: inherit;
+}
+.slider-inner h1 {
+    font-size: 50px;
+}
+.get-started-btn {
+    margin-top: 30px;
+}
+.hire-us-content {
+    text-align: center;
+}
+.hire-us-area .col-12.text-right {
+    text-align: center !important;
+    margin-top: 20px;
+}
+.single-icon-box {
+    width: 100%;
+}
+.working-with-us-area .hire-us-content {
+    padding: 40px 0;
+}
+.blog-carousel.owl-carousel .owl-item img {
+    width: 100%;
+    height: 250px;
+}
+.blog-content {
+    padding-left: 0;
+}
+.single-blog-img {
+    margin-bottom: 30px;
+}
+.single-blog-item {
+    margin-bottom: 30px;
+}
+.slider-carousel.owl-carousel .owl-nav button {
+    left: 15px;
+}
+.slider-carousel.owl-carousel .owl-nav button.owl-next {
+    right: 15px;
+    left: auto;
+}
+.carousel-area .owl-carousel .owl-nav {
+    left: 226px;
+}
+ 
+}
+
+.iconbox-content-heading1:hover{
+    color: inherit;
+}
